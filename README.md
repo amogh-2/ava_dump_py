@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ## Usage
 ```bash
-python app.py <input.(pcap|csv)> <config.json> <output.json>
+python main.py <input.(pcap|csv)> <config.json> <output.json>
 ```
 
 Examples:
